@@ -1,3 +1,5 @@
+# problem link: https://leetcode.com/problems/two-sum/description/
+
 class Solution:
     def two_sum(self, nums: list[int], target: int) -> int:
         # one pass hash map
